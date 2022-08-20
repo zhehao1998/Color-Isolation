@@ -1,2 +1,2 @@
 # ColorIsolation
-Code snippet to isolate color using HSV trackbars
+Code snippet to isolate color using HSV trackbars in OpenCV
